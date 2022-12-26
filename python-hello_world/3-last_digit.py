@@ -10,4 +10,4 @@ else:
 	if l > 5:
 		print("Last digit of " + str(number) + " is " + str(l) + " and is greater than 5")
 	elif l < 5:
-		print("Last digit of " + str(number) + " is " + str(i) + " and is less than 6 and not 0")
+		print("Last digit of " + str(number) + " is " + str(l) + " and is less than 6 and not 0")
