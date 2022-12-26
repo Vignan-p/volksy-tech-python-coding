@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10000, 10000)
-l = number % 10:
+l = number % 10
 if number < 0
 	l = l - 10
 if l == 0:
